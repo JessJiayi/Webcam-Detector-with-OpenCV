@@ -3,7 +3,10 @@
   <img alt="Version" src="https://img.shields.io/badge/version-1-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> Pproject
+> Project use OpenCV,Pandas,Bokeh
+> shows output as html to show graph.
+> ![image](https://user-images.githubusercontent.com/58965055/110059307-f871a900-7d31-11eb-8cd3-429f73ce357f.png)
+
 
 ## Author
 
@@ -14,4 +17,3 @@
 Give a ⭐️ if this project helped you!
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
