@@ -4,7 +4,9 @@
 </p>
 
 > Built Windows app that detects webcam motion and stores the time interval of the motion, using Python, OpenCV, and Pandas.
+
 > Controlled camera using OpenCV to monitor motion and detect data.
+ 
 > Used Pandas to generate a table to record the time period when the motion is detected and displayed the data in a visual chart through Bokeh.
 
 > shows output as html to show graph.
